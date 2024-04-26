@@ -1,0 +1,17 @@
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+}
+nav ul li{
+    list-style: none;
+    padding: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 10px;
+    font-weight: 600;
+
+}
